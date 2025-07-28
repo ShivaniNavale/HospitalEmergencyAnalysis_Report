@@ -62,7 +62,7 @@ This project demonstrates how Excel can be a powerful tool for:
 ---
 ## 📷 Dashboard Preview
 
-[![Dashboard Preview](./preview.png)](./preview.png)
+[![Dashboard Preview](./HospitalPreview.png)](./HospitalPreview.png)
 
 > 📌 *Click the image to view the full dashboard screenshot.*
 
